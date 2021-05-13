@@ -1,0 +1,215 @@
+Библиография к статье <<Численное моделирование морской поверхности
+применительно к задаче моделирования импульсного гидролокатора>>
+
+
+@manual{ndbc,
+	month = {January},
+	organization = {National Data Buoy Center},
+	title = { Programmatic Environmental Assessment For the National Oceanic and Atmospheric Administration National Data Buoy Center },
+	url = {https://www.ndbc.noaa.gov/pea/ndbc_final_pea_20180104.pdf},
+	year = {2018}
+}
+
+@article{Cox1954MeasurementOT,
+	author = {Cox, C. and Munk, W.},
+	doi = {10.1364/JOSA.44.000838},
+	journal = {Journal of the Optical Society of America},
+	pages = {838--850},
+	title = {Measurement of the Roughness of the Sea Surface from Photographs of the Sun{\rq}s Glitter},
+	volume = {44},
+	year = {1954}
+}
+
+@manual{adcp,
+	organization = {Nortek},
+	title = {AWAC - 600 kHz},
+	url = {https://www.nortekgroup.com/products/awac-600-khz/pdf}
+}
+
+@article{Cox1954MeasurementOT-2,
+	doi = {10.1364/JOSA.44.000838},
+	title = {Measurement of the Roughness of the Sea Surface from Photographs of the Sun{\rq}s Glitter}
+}
+
+Valenzuela, G.R. (1978) Theories for the Interaction of Electromagnetic and Oceanic Waves---A Review. Boundary-Layer Meteorology, 13, 61-85.
+http://dx.doi.org/10.1007/BF00913863 
+
+
+@article{article,
+	author = {Ngan, Tran and Chapron, B. and Vandemark, D.},
+	doi = {10.1109/LGRS.2007.896329},
+	journal = {Geoscience and Remote Sensing Letters, IEEE},
+	month = {11},
+	pages = {542--546},
+	title = {Effect of Long Waves on Ku-Band Ocean Radar Backscatter at Low Incidence Angles Using TRMM and Altimeter Data},
+	volume = {4},
+	year = {2007}
+}
+
+Ryabkova M., Karaev V., Guo J., Titchenko Yu. A review of wave spectra models as applied to the problem of radar probing of the sea surface // Journal of Geophysical Research. Oceans. 2019. V. 124. P. 1-31. https://doi.org/10.1029/2018JC014804.
+
+
+@article{article-2,
+	author = {Panfilova, Maria and Ryabkova, Maria and Karaev, Vladimir and Skiba, Ekaterina},
+	doi = {10.1109/TGRS.2019.2955546},
+	journal = {IEEE Transactions on Geoscience and Remote Sensing},
+	month = {12},
+	pages = {1--7},
+	title = {Retrieval of the Statistical Characteristics of Wind Waves From the Width and Shift of the Doppler Spectrum of the Backscattered Microwave Signal at Low Incidence Angles},
+	volume = {PP},
+	year = {2019}
+}
+
+inproceedings{inproceedings,
+author = {Panfilova, Maria and Ryabkova, Maria and Titchenko, Yuriy and Karaev, Vladimir},
+year = {2018},
+month = {01},
+pages = {725 (3 pp.)-725 (3 pp.)},
+title = {Retrieving of significant wave height and period from the Doppler spectrum of backscattered microwave signal},
+doi = {10.1049/cp.2018.1084}
+
+
+article{article,
+author = {Nouguier, Fr{\'e}d{\'e}ric and Mouche, Alexis and Rascle, Nicolas and Chapron, Bertrand and Vandemark, Douglas},
+year = {2016},
+month = {07},
+pages = {1-5},
+title = {Analysis of Dual-Frequency Ocean Backscatter Measurements at Ku- and Ka-Bands Using Near-Nadir Incidence GPM Radar Data},
+journal = {IEEE Geoscience and Remote Sensing Letters},
+doi = {10.1109/LGRS.2016.2583198}
+}
+
+
+@inproceedings{inproceedings,
+	author = {Mitnik, Leonid and Kuleshov, V.P. and Mitnik, Maia and Panfilova, Maria and Karaev, Vladimir and Titchenko, Yuriy},
+	doi = {10.1109/IGARSS39084.2020.9323914},
+	month = {09},
+	pages = {5709--5712},
+	title = {Retrieval of Mean Square Slopes of Sea Waves, Surface Wind Speed, Total Water Vapor Content and Total Cloud Liquid Water Content in Hagibis Typhoon Area from Satellite Active and Passive Microwave Data},
+	year = {2020}
+}
+
+inproceedings{inproceedings,
+author = {Karaev, Vladimir and Mitnik, Leonid and Panfilova, Maria and Ryabkova, Maria and Meshkov, Eugeny and Titchenko, Yuriy and Yablokov, Anton},
+year = {2019},
+month = {07},
+pages = {8109-8112},
+title = {Mean Square Slopes Of Sea Waves In Cyclone Area From Dual-Frequency Precipitation Radar And Microwave Radiometer},
+doi = {10.1109/IGARSS.2019.8899270}
+}
+
+
+@article{article-6,
+	author = {Karaev, Vladimir and Panfilova, Maria and Mitnik, Leonid and Ryabkova, Maria and Titchenko, Yuriy and Meshkov, Eugeny and Andreeva, Z.V. and Volgutov, Valerjevich},
+	doi = {10.21046/2070-7401-2020-17-7-187-202},
+	journal = {Sovremennye problemy distantsionnogo zondirovaniya Zemli iz kosmosa},
+	month = {01},
+	pages = {187--202},
+	title = {Features of radar probing of ice cover at small incidence angles by the example of the Okhotsk Sea},
+	url = {http://d33.infospace.ru/d33_conf/sb2020t7/187-202.pdf},
+	volume = {17},
+	year = {2020}
+}
+
+@article{article-7,
+	author = {Karaev, Vladimir and Kanevsky, Mikhail and Balandina, G.N. and Challenor, Peter and Gommenginger, Christine and Srokosz, Meric},
+	doi = {10.1175/JTECH1807.1},
+	journal = {Journal of Atmospheric and Oceanic Technology - J ATMOS OCEAN TECHNOL},
+	month = {11},
+	pages = {1809--1820},
+	title = {The Concept of a Microwave Radar with an Asymmetric Knifelike Beam for the Remote Sensing of Ocean Waves},
+	volume = {22},
+	year = {2005}
+}
+
+@article{article-8,
+	author = {Karaev, Vladimir and Kanevsky, Mikhail and Balandina, G.N. and Meshkov, Eugeny and Challenor, Peter and Srokosz, Meric and Gommenginger, Christine},
+	doi = {10.3390/s6060620},
+	journal = {Sensors},
+	month = {06},
+	pages = {},
+	title = {A Rotating Knife-beam Altimeter for Wide-swath Remote Sensing of Ocean: Wind and Waves},
+	volume = {6},
+	year = {2006}
+}
+
+https://www.eorc.jaxa.jp/GPM/doc/data_utilization/GPM_data_util_handbook_E.pdf
+ = {
+
+
+@article{article-9,
+	author = {Freilich, Michael and Vanhoff, Barry},
+	doi = {10.1175/1520-0426(2003)20<549:TRBWSR>2.0.CO;2},
+	journal = {Journal of Atmospheric and Oceanic Technology},
+	month = {04},
+	pages = {},
+	title = {The Relationship between Winds, Surface Roughness, and Radar Backscatter at Low Incidence Angles from TRMM Precipitation Radar Measurements},
+	volume = {20},
+	year = {2003}
+}
+
+@article{article-10,
+	author = {Freilich, Michael and Vanhoff, Barry},
+	doi = {10.1175/1520-0426(2003)20<549:TRBWSR>2.0.CO;2},
+	journal = {Journal of Atmospheric and Oceanic Technology},
+	month = {04},
+	pages = {},
+	title = {The Relationship between Winds, Surface Roughness, and Radar Backscatter at Low Incidence Angles from TRMM Precipitation Radar Measurements},
+	volume = {20},
+	year = {2003}
+}
+
+DOI:10.1364/JOSA.44.000838
+Measurement of the Roughness of the Sea Surface from Photographs of the Sun{\rq}s Glitter
+
+
+@article{article-11,
+	author = {Chu, Xiaoqing and He, Yijun and Chen, Gengxin},
+	doi = {10.1109/TGRS.2012.2189010},
+	journal = {IEEE Transactions on Geoscience and Remote Sensing},
+	month = {10},
+	pages = {4014--4024},
+	title = {Asymmetry and Anisotropy of Microwave Backscatter at Low Incidence Angles},
+	volume = {50},
+	year = {2012}
+}
+
+@article{article-12,
+	author = {Chu, Xiaoqing and He, Yijun and Karaev, Vladimir},
+	doi = {10.1109/TGRS.2012.2191560},
+	journal = {IEEE Transactions on Geoscience and Remote Sensing},
+	month = {11},
+	pages = {4599--4609},
+	title = {Relationships Between Ku-Band Radar Backscatter and Integrated Wind and Wave Parameters at Low Incidence Angles},
+	volume = {50},
+	year = {2012}
+}
+
+@article{rs11070754,
+	abstract = {The co-located normalized radar backscatter cross section measurements from the Global Precipitation Measurement (GPM) Ku/Ka-band dual-frequency precipitation radar (DPR) and sea surface wind; wave and temperature observations from the National Data Buoy Center (NDBC) moored buoys are used to analyze the dependence and sensitivity of Ku- and Ka-band backscatter on surface conditions at low-incidence angles. Then the potential for inverting wind and wave parameters directly from low-incidence \ensuremath{\sigma}0 measurements is discussed. The results show that the KaPR \ensuremath{\sigma}0 is more sensitive to surface conditions than the KuPR \ensuremath{\sigma}0 overall. Nevertheless; both the KuPR \ensuremath{\sigma}0 and KaPR \ensuremath{\sigma}0 are strongly correlated with wind speed (U10) and average wave steepness (\ensuremath{\delta}a) with the exception of specific transitional incidence angles. Moreover, U10 and \ensuremath{\delta}a could be retrieved from pointwise \ensuremath{\sigma}0 near nadir and near 18{\textdegree}. Near 18{\textdegree}; wind direction information is needed as the effect of wind direction on \ensuremath{\sigma}0 becomes increasingly significant with incidence angle. To improve the performance of U10 retrieval; especially for low U10; auxiliary \ensuremath{\delta}a information would be most helpful; and sea surface temperature is better taken into account. Other wave parameters; such as significant wave height; wave period and wave age; are partly correlated with \ensuremath{\sigma}0. It is generally more difficult to retrieve those parameters directly from pointwise \ensuremath{\sigma}0. For the retrieval of those wave parameters; various auxiliary information is needed. Wind direction and wave direction cannot be retrieved from pointwise \ensuremath{\sigma}0.},
+	article-number = {754},
+	author = {Yan, Qiushuang and Zhang, Jie and Fan, Chenqing and Meng, Junmin},
+	doi = {10.3390/rs11070754},
+	issn = {2072-4292},
+	journal = {Remote Sensing},
+	number = {7},
+	title = {Analysis of Ku- and Ka-Band Sea Surface Backscattering Characteristics at Low-Incidence Angles Based on the GPM Dual-Frequency Precipitation Radar Measurements},
+	url = {https://www.mdpi.com/2072-4292/11/7/754},
+	volume = {11},
+	year = {2019}
+}
+
+@article{Valenzuela1978,
+	abstract = {This paper reviews analytical methods in electromagnetic scattering theory (i.e., geometrical and physical optics, perturbation, iteration, and integral-equation) which are applicable to the problems of remote sensing of the ocean. In dealing with Earth's surface (in this case, the weakly non-linear ocean), it is not possible to have a complete and exact description of its spatial and temporal statistics. Only the first few moments are generally available; and in the linear approximation the statistics are assumed homogeneous, stationary and Gaussian. For this case, the high-frequency methods (geometrical and physical optics) and perturbation (Rayleigh-Rice), or a combination of them, provide tractable analytical results (i.e., the specular-point, the slightly-rough Bragg scattering and the composite-surface models). The applicability and limitations of these models are discussed. At grazing incidence and for higher frequencies, other scattering mechanisms become significant; and shadowing, diffraction and trapping must be considered.},
+	author = {Valenzuela, Gaspar R.},
+	doi = {10.1007/BF00913863},
+	issn = {1573-1472},
+	journal = {Boundary-Layer Meteorology},
+	number = {1},
+	pages = {61--85},
+	risfield_0_da = {1978/01/01},
+	title = {Theories for the interaction of electromagnetic and oceanic waves --- A review},
+	volume = {13},
+	year = {1978}
+}
+
